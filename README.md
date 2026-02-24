@@ -10,12 +10,12 @@ This project involves converting NDOT’s existing Excel-based concrete mix desi
 4. The program will generate a formatted weight chart.
 
 ## Repository Contents
-- [Jupyter Notebook with automation code]()
-- [Scope Of Work (SOW)](CIVE202_Spring_2025_Group5_Project2_ScopeOfWork.docx)
+- [Jupyter Notebook with automation code](CIVE202_Spring_2026_Group5_Project2_PythonCode.ipynb)
+- [Scope Of Work (SOW)](CIVE202_Spring_2026_Group5_Project2_ScopeOfWork.docx)
 - [Four mix scenarios]()
 - [Annotated Code Document]()
 - [Technical Report]()
-- [Gantt Chart](CIVE202_Spring_2025_Group5_Project2_GanttChart.xlsx)
+- [Gantt Chart](CIVE202_Spring_2026_Group5_Project2_GanttChart.xlsx)
 
 ## Notes
 Four concrete mix scenarios were researched and evaluated using the automated model to verify accuracy.
