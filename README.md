@@ -12,9 +12,8 @@ This project involves converting NDOT’s existing Excel-based concrete mix desi
 ## Repository Contents
 - [Jupyter Notebook with automation code](CIVE202_Spring_2026_Group5_Project2_PythonCode.ipynb)
 - [Scope Of Work (SOW)](CIVE202_Spring_2026_Group5_Project2_ScopeOfWork.docx)
-- [Four mix scenarios]()
-- [Annotated Code Document]()
-- [Technical Report]()
+- [Annotated Code Document](CIVE202_Spring_2026_Group5_Project2_AnnotatedCodeDocument.docx)
+- [Technical Report](CIVE202_Spring_2026_Group5_Project2_TechnicalReport)
 - [Gantt Chart](CIVE202_Spring_2026_Group5_Project2_GanttChart.xlsx)
 
 ## Notes
